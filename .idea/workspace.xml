@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7edaa71-238e-4361-b071-9dd5788988bb" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/VMTranslator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CodeWriter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="553">
+              <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#CodeWriter#0;class#CodeWriter#0" />
+                <element signature="docComment;method#setFileName#0;class#CodeWriter#0" />
+                <element signature="docComment;method#writeInit#0;class#CodeWriter#0" />
+                <element signature="method#writeInit#0;class#CodeWriter#0" />
+                <element signature="docComment;method#writeLabel#0;class#CodeWriter#0" />
+                <element signature="method#writeLabel#0;class#CodeWriter#0" />
+                <element signature="docComment;method#writeGoTo#0;class#CodeWriter#0" />
+                <element signature="method#writeGoTo#0;class#CodeWriter#0" />
+                <element signature="docComment;method#writeIf#0;class#CodeWriter#0" />
+                <element signature="method#writeIf#0;class#CodeWriter#0" />
+                <element signature="docComment;method#writeArithmetic#0;class#CodeWriter#0" />
+                <element signature="method#writeArithmetic#0;class#CodeWriter#0" />
+                <element signature="docComment;method#writePushPop#0;class#CodeWriter#0" />
+                <element signature="method#writePushPop#0;class#CodeWriter#0" />
+                <element signature="docComment;method#close#0;class#CodeWriter#0" />
+                <element signature="e#24394#24395#0" expanded="true" />
+                <element signature="e#24428#24429#0" expanded="true" />
+                <element signature="method#writeIncrement#0;class#CodeWriter#0" />
+                <element signature="method#writeEndLoop#0;class#CodeWriter#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sys.vm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/BasicTest.vm" />
+        <option value="$PROJECT_DIR$/src/BasicTest.asm" />
+        <option value="$PROJECT_DIR$/src/StackTest.vm" />
+        <option value="$PROJECT_DIR$/src/CommandType.java" />
+        <option value="$PROJECT_DIR$/src/Parser.java" />
+        <option value="$PROJECT_DIR$/src/VMTranslator.java" />
+        <option value="$PROJECT_DIR$/src/CodeWriter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="319" />
+    <option name="y" value="6" />
+    <option name="width" value="1437" />
+    <option name="height" value="1014" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vm_partTwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm_partTwo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm_partTwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm_partTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554833954829" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="VMTranslator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VMTranslator" />
+      <module name="vm_partOne" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VMTranslator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7edaa71-238e-4361-b071-9dd5788988bb" name="Default Changelist" comment="" />
+      <created>1554063496572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554063496572</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="319" y="6" width="1437" height="1014" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.275236" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298731" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28717366" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.24981739" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3298731" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.2260669" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.asm" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.vm" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/BasicTest.asm" />
+    <entry file="file://$PROJECT_DIR$/src/BasicTest.vm" />
+    <entry file="file://$PROJECT_DIR$/src/PointerTest.vm" />
+    <entry file="file://$PROJECT_DIR$/src/StaticTest.vm" />
+    <entry file="file://$PROJECT_DIR$/src/SimpleAdd.asm" />
+    <entry file="file://$PROJECT_DIR$/src/SimpleAdd.vm" />
+    <entry file="file://$PROJECT_DIR$/src/StackTest.asm" />
+    <entry file="file://$PROJECT_DIR$/src/StackTest.vm" />
+    <entry file="file://$PROJECT_DIR$/src/output.asm" />
+    <entry file="file://$PROJECT_DIR$/src/CommandType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicLoop.vm" />
+    <entry file="file://$PROJECT_DIR$/src/BasicLoop.asm" />
+    <entry file="file://$PROJECT_DIR$/src/FibonacciSeries.vm" />
+    <entry file="file://$PROJECT_DIR$/src/FibonacciSeries.asm" />
+    <entry file="file://$PROJECT_DIR$/src/SimpleFunction.vm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleFunction.asm" />
+    <entry file="file://$PROJECT_DIR$/src/Sys.asm" />
+    <entry file="file://$PROJECT_DIR$/src/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="187" column="7" lean-forward="true" selection-start-line="187" selection-start-column="7" selection-end-line="187" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#Parser#0;class#Parser#0" />
+            <element signature="method#Parser#0;class#Parser#0" />
+            <element signature="docComment;method#advance#0;class#Parser#0" />
+            <element signature="method#advance#0;class#Parser#0" />
+            <element signature="docComment;method#hasMoreCommands#0;class#Parser#0" />
+            <element signature="docComment;method#getArg1#0;class#Parser#0" />
+            <element signature="docComment;method#getArg2#0;class#Parser#0" />
+            <element signature="docComment;method#getCommandType#0;class#Parser#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NestedCall.asm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2601" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sys.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodeWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#CodeWriter#0;class#CodeWriter#0" />
+            <element signature="docComment;method#setFileName#0;class#CodeWriter#0" />
+            <element signature="docComment;method#writeInit#0;class#CodeWriter#0" />
+            <element signature="method#writeInit#0;class#CodeWriter#0" />
+            <element signature="docComment;method#writeLabel#0;class#CodeWriter#0" />
+            <element signature="method#writeLabel#0;class#CodeWriter#0" />
+            <element signature="docComment;method#writeGoTo#0;class#CodeWriter#0" />
+            <element signature="method#writeGoTo#0;class#CodeWriter#0" />
+            <element signature="docComment;method#writeIf#0;class#CodeWriter#0" />
+            <element signature="method#writeIf#0;class#CodeWriter#0" />
+            <element signature="docComment;method#writeArithmetic#0;class#CodeWriter#0" />
+            <element signature="method#writeArithmetic#0;class#CodeWriter#0" />
+            <element signature="docComment;method#writePushPop#0;class#CodeWriter#0" />
+            <element signature="method#writePushPop#0;class#CodeWriter#0" />
+            <element signature="docComment;method#close#0;class#CodeWriter#0" />
+            <element signature="e#24394#24395#0" expanded="true" />
+            <element signature="e#24428#24429#0" expanded="true" />
+            <element signature="method#writeIncrement#0;class#CodeWriter#0" />
+            <element signature="method#writeEndLoop#0;class#CodeWriter#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VMTranslator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
